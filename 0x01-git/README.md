@@ -1,1 +1,1 @@
-learning git
+getting used to github
